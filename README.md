@@ -1,1 +1,1 @@
-# myproject20112
+pip install telethon
